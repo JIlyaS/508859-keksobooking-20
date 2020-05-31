@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Колмаков](https://up.htmlacademy.ru/javascript/20/user/508859).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Колмаков](https://up.htmlacademy.ru/javascript/20/user/508859).
 
 ---
 
